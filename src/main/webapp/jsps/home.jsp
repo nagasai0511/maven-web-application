@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Hewlett Packard Enterprise (HPE)- Home Page</title>
+<link href="images/hpe_logo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Hewlett Packard Enterprise (HPE). Bengaluru,Karnataka </h1>
+<h1 align="center"> Hewlett Packard Enterprise (HPE)-  Global Remote Services</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,24 +31,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/hpe_logo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Hewlett Packard Enterprise (HPE)
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-7019383604
+		nagadurgasai@outlook.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:nagadurgasai@outlook.com">Mail to HPE</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Hewlett Packard Enterprise (HPE) Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="https://www.hpe.com/us/en/home.html">Hewlett Packard Enterprise (HPE),Bengaluru</a> </small></p>
 
 </body>
 </html>
